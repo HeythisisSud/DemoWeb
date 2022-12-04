@@ -1,0 +1,74 @@
+
+.container{
+	border-width: 45px;
+	border-color: black;
+	border: solid; 
+	
+}
+
+body{
+	font-family: sans-serif;
+	background-color: #f2ffff;
+
+}
+
+.navbar{
+	background-color: #aec7d6;
+}
+
+.heading1{
+	font-size: 1.5rem;
+	font-family: 'Kanit', sans-serif;
+
+}
+
+.heading2{
+	font-family: 'Anek Devanagari', sans-serif;
+	font-size: 2rem;
+	text-align: left;
+	font-weight: 500;
+}
+
+.ul{
+	display: flex;
+	list-style: none;
+	align-content: center;
+}
+
+.div1{
+	display: flex;
+}
+
+.hey{
+	background-color: black;
+}
+
+.logo1{
+
+	width: 3rem;
+}
+
+.img1{
+	width: 16rem;
+
+}
+
+.maindiv{
+	box-shadow: black;
+	border-radius: 3rem;
+}
+
+.p{
+	font-weight: 500;
+	font-size: 2rem;
+	font-family: 'Anek Devanagari', sans-serif;
+}
+
+.pin{
+	cursor: pointer;
+}
+
+.name{
+	font-size:1rem;
+	font-family: 'Anek Devanagari', sans-serif;
+}
